@@ -1,0 +1,15 @@
+&interval=Y5&assetName=DAX&exchange=außerbörslich
+&interval=Y5&assetName=EURO STOXX 50&exchange=außerbörslich
+&interval=Y5&assetName=Dow Jones&exchange=außerbörslich
+&interval=Y5&assetName=SMI&exchange=außerbörslich
+&interval=Y5&assetName=MSCI WORLD &exchange=außerbörslich
+&interval=Y5&assetName=FTSE&exchange=außerbörslich
+&interval=Y5&assetName=ATX&exchange=außerbörslich
+&interval=Y5&assetName=SDAX&exchange=außerbörslich
+&interval=Y5&assetName=TecDAX&exchange=außerbörslich
+&interval=Y5&assetName=NASDAQ 100&exchange=außerbörslich
+&interval=Y5&assetName=Nikkei ©&exchange=außerbörslich
+&interval=Y5&assetName=Hang Seng&exchange=außerbörslich
+&interval=Y5&assetName=SHANGHAI STOCK EXCHANGE B SHARES &exchange=außerbörslich
+&interval=Y5&assetName=MSCI EM (EMERGING MARKETS) (STRD%2C UHD)&exchange=außerbörslich
+&interval=Y5&assetName=Bovespa&exchange=außerbörslich

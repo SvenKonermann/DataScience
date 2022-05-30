@@ -1,0 +1,15 @@
+https://www.onvista.de/onvista/times+sales/popup/historische-kurse/?notationId=20735&dateStart=30.12.1987&interval=Y5&assetName=DAX&exchange=außerbörslich
+https://www.onvista.de/onvista/times+sales/popup/historische-kurse/?notationId=193736&dateStart=31.12.1986&interval=Y5&assetName=EURO STOXX 50&exchange=außerbörslich
+https://www.onvista.de/onvista/times+sales/popup/historische-kurse/?notationId=324977&dateStart=21.05.1993&interval=Y5&assetName=Dow Jones&exchange=außerbörslich
+https://www.onvista.de/onvista/times+sales/popup/historische-kurse/?notationId=1555183&dateStart=29.01.1988&interval=Y5&assetName=SMI&exchange=außerbörslich
+https://www.onvista.de/onvista/times+sales/popup/historische-kurse/?notationId=3193857&dateStart=30.05.1980&interval=Y5&assetName=MSCI WORLD &exchange=außerbörslich
+https://www.onvista.de/onvista/times+sales/popup/historische-kurse/?notationId=1918069&dateStart=04.01.1994&interval=Y5&assetName=FTSE&exchange=außerbörslich
+https://www.onvista.de/onvista/times+sales/popup/historische-kurse/?notationId=92866&dateStart=02.01.1991&interval=Y5&assetName=ATX&exchange=außerbörslich
+https://www.onvista.de/onvista/times+sales/popup/historische-kurse/?notationId=324724&dateStart=30.12.1987&interval=Y5&assetName=SDAX&exchange=außerbörslich
+https://www.onvista.de/onvista/times+sales/popup/historische-kurse/?notationId=6623216&dateStart=30.12.2002&interval=Y5&assetName=TecDAX&exchange=außerbörslich
+https://www.onvista.de/onvista/times+sales/popup/historische-kurse/?notationId=325104&dateStart=21.05.1993&interval=Y5&assetName=NASDAQ 100&exchange=außerbörslich
+https://www.onvista.de/onvista/times+sales/popup/historische-kurse/?notationId=60972397&dateStart=02.11.1989&interval=Y5&assetName=Nikkei ©&exchange=außerbörslich
+https://www.onvista.de/onvista/times+sales/popup/historische-kurse/?notationId=8313314&dateStart=02.01.1990&interval=Y5&assetName=Hang Seng&exchange=außerbörslich
+https://www.onvista.de/onvista/times+sales/popup/historische-kurse/?notationId=8313300&dateStart=08.02.2002&interval=Y5&assetName=SHANGHAI STOCK EXCHANGE B SHARES &exchange=außerbörslich
+https://www.onvista.de/onvista/times+sales/popup/historische-kurse/?notationId=1643097&dateStart=31.12.1987&interval=Y5&assetName=MSCI EM (EMERGING MARKETS) (STRD%2C UHD)&exchange=außerbörslich
+https://www.onvista.de/onvista/times+sales/popup/historische-kurse/?notationId=15826957&dateStart=02.01.1995&interval=Y5&assetName=Bovespa&exchange=außerbörslich
