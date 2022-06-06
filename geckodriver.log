@@ -1,0 +1,1037 @@
+1646151429373	geckodriver	INFO	Listening on 127.0.0.1:64661
+1646151432445	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" "--remote-debugging-port" "64662" "-no-remote" "-profile" "C:\\Users\\SVENKO~1\\AppData\\Local\\Temp\\rust_mozprofile73L1UX"
+*** You are running in headless mode.
+1646151432823	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Sven Konermann\\AppData\\Local\\Temp\\rust_mozprofile73L1UX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64662/devtools/browser/f5e28e48-3d9b-47c5-a3ea-f5211c07c7e7
+1646151434040	Marionette	INFO	Listening on port 64667
+1646151434525	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1646151435694	Marionette	INFO	Stopped listening on port 64667
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1646151570356	geckodriver	INFO	Listening on 127.0.0.1:64737
+1646151573444	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--window-size=1200,800" "user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.4 Safari/605.1.15" "--remote-debugging-port" "64738" "-no-remote" "-profile" "C:\\Users\\SVENKO~1\\AppData\\Local\\Temp\\rust_mozprofileRGdsT2"
+1646151573766	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Sven Konermann\\AppData\\Local\\Temp\\rust_mozprofileRGdsT2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64738/devtools/browser/e60964e7-0335-4abf-9f3f-3289dc579a49
+1646151575621	Marionette	INFO	Listening on port 64743
+1646151576098	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1646151591924	Marionette	INFO	Stopped listening on port 64743
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1646151630509	geckodriver	INFO	Listening on 127.0.0.1:64810
+1646151633598	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--window-size=1200,800" "user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.2 Safari/605.1.15" "--remote-debugging-port" "64811" "-no-remote" "-profile" "C:\\Users\\SVENKO~1\\AppData\\Local\\Temp\\rust_mozprofiledJc2Kn"
+1646151633916	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Sven Konermann\\AppData\\Local\\Temp\\rust_mozprofiledJc2Kn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64811/devtools/browser/1a6ff8a8-940c-42a5-ae0f-eaf0c2cb2806
+1646151635900	Marionette	INFO	Listening on port 64816
+1646151636285	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1646151637511	Marionette	INFO	Stopped listening on port 64816
+[Parent 75944, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1646151707318	geckodriver	INFO	Listening on 127.0.0.1:64881
+1646151710416	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--window-size=1200,800" "user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" "--remote-debugging-port" "64882" "-no-remote" "-profile" "C:\\Users\\SVENKO~1\\AppData\\Local\\Temp\\rust_mozprofilen9RwEY"
+1646151710738	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Sven Konermann\\AppData\\Local\\Temp\\rust_mozprofilen9RwEY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64882/devtools/browser/f0081f34-3856-4996-abc8-cbb928a72b18
+1646151712725	Marionette	INFO	Listening on port 64888
+1646151713053	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1646151721808	Marionette	INFO	Stopped listening on port 64888
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1646151771658	geckodriver	INFO	Listening on 127.0.0.1:64936
+1646151774707	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--window-size=1200,800" "user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" "--remote-debugging-port" "64937" "-no-remote" "-profile" "C:\\Users\\SVENKO~1\\AppData\\Local\\Temp\\rust_mozprofilepicunW"
+1646151775032	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Sven Konermann\\AppData\\Local\\Temp\\rust_mozprofilepicunW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64937/devtools/browser/3b36d921-097a-4244-82e7-495de5d7ed28
+1646151777087	Marionette	INFO	Listening on port 64942
+1646151777350	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1646151783552	Marionette	INFO	Stopped listening on port 64942
+1646151830468	geckodriver	INFO	Listening on 127.0.0.1:64987
+1646151833541	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--window-size=1200,800" "user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 YaBrowser/19.12.4.25 Yowser/2.5 Safari/537.36" "--remote-debugging-port" "64988" "-no-remote" "-profile" "C:\\Users\\SVENKO~1\\AppData\\Local\\Temp\\rust_mozprofilewnFseD"
+1646151833860	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Sven Konermann\\AppData\\Local\\Temp\\rust_mozprofilewnFseD\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64988/devtools/browser/38180951-ece1-4f8c-a50b-e6ddd081c26d
+1646151835771	Marionette	INFO	Listening on port 64993
+1646151836174	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://de.wikipedia.org"
+1646152157185	Marionette	INFO	Stopped listening on port 64993
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1646152298239	geckodriver	INFO	Listening on 127.0.0.1:65095
+1646152301319	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--window-size=1200,800" "user-agent=Mozilla/5.0 (Windows NT 6.1; rv:72.0) Gecko/20100101 Firefox/72.0" "--remote-debugging-port" "65096" "-no-remote" "-profile" "C:\\Users\\SVENKO~1\\AppData\\Local\\Temp\\rust_mozprofileorOXO2"
+1646152301635	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Sven Konermann\\AppData\\Local\\Temp\\rust_mozprofileorOXO2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65096/devtools/browser/6380ae94-8d1c-43b1-989d-f0872ddeab6e
+1646152303651	Marionette	INFO	Listening on port 65101
+1646152303973	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1646152332611	Marionette	INFO	Stopped listening on port 65101
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1646152481567	geckodriver	INFO	Listening on 127.0.0.1:65169
+1646152484650	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--window-size=1200,800" "--remote-debugging-port" "65170" "-no-remote" "-profile" "C:\\Users\\SVENKO~1\\AppData\\Local\\Temp\\rust_mozprofileWpSHL9"
+1646152484955	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Sven Konermann\\AppData\\Local\\Temp\\rust_mozprofileWpSHL9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65170/devtools/browser/2ac54e0a-4623-48d9-a556-f3a3e37010fe
+1646152486886	Marionette	INFO	Listening on port 65175
+1646152487299	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://en.wikipedia.org"
+1646152607697	Marionette	INFO	Stopped listening on port 65175
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1646152619980	geckodriver	INFO	Listening on 127.0.0.1:65267
+1646152623060	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--window-size=1200,800" "--remote-debugging-port" "65268" "-no-remote" "-profile" "C:\\Users\\SVENKO~1\\AppData\\Local\\Temp\\rust_mozprofile9zjrcj"
+1646152623374	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Sven Konermann\\AppData\\Local\\Temp\\rust_mozprofile9zjrcj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65268/devtools/browser/30542538-a54c-4cad-a602-2694cdfb046d
+1646152625180	Marionette	INFO	Listening on port 65273
+1646152625206	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://en.wikipedia.org"
+1646152626502	Marionette	INFO	Stopped listening on port 65273
+
+###!!! [Child][PContentChild] Error: Send(msgname=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1646152731901	geckodriver	INFO	Listening on 127.0.0.1:65326
+1646152734968	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--window-size=1200,800" "--remote-debugging-port" "65327" "-no-remote" "-profile" "C:\\Users\\SVENKO~1\\AppData\\Local\\Temp\\rust_mozprofile20W3QS"
+1646152735276	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Sven Konermann\\AppData\\Local\\Temp\\rust_mozprofile20W3QS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65327/devtools/browser/4766f7f1-32df-4c2a-8fd7-c839643253ec
+1646152737224	Marionette	INFO	Listening on port 65332
+1646152737620	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: checkFramebufferStatus: Using format enabled by implicitly enabled extension: WEBGL_color_buffer_float. For maximal portability enable it explicitly.
+JavaScript warning: , line 0: WebGL warning: checkFramebufferStatus: Using format enabled by implicitly enabled extension: WEBGL_color_buffer_float. For maximal portability enable it explicitly.
+JavaScript warning: , line 0: WebGL warning: checkFramebufferStatus: Using format enabled by implicitly enabled extension: WEBGL_color_buffer_float. For maximal portability enable it explicitly.
+JavaScript warning: , line 0: WebGL warning: checkFramebufferStatus: Using format enabled by implicitly enabled extension: WEBGL_color_buffer_float. For maximal portability enable it explicitly.
+JavaScript warning: , line 0: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: drawElementsInstanced: Using format enabled by implicitly enabled extension: EXT_float_blend. For maximal portability enable it explicitly.
+JavaScript warning: , line 0: WebGL warning: drawElementsInstanced: Using format enabled by implicitly enabled extension: EXT_float_blend. For maximal portability enable it explicitly.
+JavaScript warning: , line 0: WebGL warning: drawElementsInstanced: Using format enabled by implicitly enabled extension: EXT_float_blend. For maximal portability enable it explicitly.
+JavaScript warning: , line 0: WebGL warning: drawElementsInstanced: Using format enabled by implicitly enabled extension: EXT_float_blend. For maximal portability enable it explicitly.
+JavaScript warning: , line 0: WebGL warning: drawElementsInstanced: Using format enabled by implicitly enabled extension: EXT_float_blend. For maximal portability enable it explicitly.
+JavaScript warning: , line 0: WebGL warning: drawElementsInstanced: Using format enabled by implicitly enabled extension: EXT_float_blend. For maximal portability enable it explicitly.
+JavaScript warning: , line 0: WebGL warning: drawElementsInstanced: Using format enabled by implicitly enabled extension: EXT_float_blend. For maximal portability enable it explicitly.
+JavaScript warning: , line 0: WebGL warning: drawElementsInstanced: Using format enabled by implicitly enabled extension: EXT_float_blend. For maximal portability enable it explicitly.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: After reporting 32, no further warnings will be reported for this WebGL context.
+1646152753716	Marionette	INFO	Stopped listening on port 65332
+1646152984719	geckodriver	INFO	Listening on 127.0.0.1:65448
+1646152987790	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--window-size=1200,800" "user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:72.0) Gecko/20100101 Firefox/72.0" "--remote-debugging-port" "65449" "-no-remote" "-profile" "C:\\Users\\SVENKO~1\\AppData\\Local\\Temp\\rust_mozprofileX0KaXs"
+1646152988113	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Sven Konermann\\AppData\\Local\\Temp\\rust_mozprofileX0KaXs\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65449/devtools/browser/cddd4dbd-aa55-4998-9416-caf88cd93b97
+1646152990111	Marionette	INFO	Listening on port 65454
+1646152990430	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://twitter.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://twitter.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://twitter.com"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1646154294486	Marionette	INFO	Stopped listening on port 65454
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+oid 0)))
+DevTools listening on ws://localhost:65520/devtools/browser/485d13a4-35bf-45a2-802e-7fe3823c8ba2
+1646153054740	Marionette	INFO	Listening on port 65526
+1646153054886	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1646153055723	Marionette	INFO	Stopped listening on port 65526
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1646154298097	geckodriver	INFO	Listening on 127.0.0.1:49339
+1646154301160	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--window-size=1200,800" "user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18363" "--remote-debugging-port" "49340" "-no-remote" "-profile" "C:\\Users\\SVENKO~1\\AppData\\Local\\Temp\\rust_mozprofilelRPBYP"
+1646154301478	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Sven Konermann\\AppData\\Local\\Temp\\rust_mozprofilelRPBYP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49340/devtools/browser/90e3a4f1-0e79-4060-a2e0-6d4f526ca43f
+1646154303380	Marionette	INFO	Listening on port 49345
+1646154303824	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1646154374278	Marionette	INFO	Stopped listening on port 49345
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1646154376153	geckodriver	INFO	Listening on 127.0.0.1:49696
+1646154379225	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--window-size=1200,800" "user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:72.0) Gecko/20100101 Firefox/72.0" "--remote-debugging-port" "49697" "-no-remote" "-profile" "C:\\Users\\SVENKO~1\\AppData\\Local\\Temp\\rust_mozprofileqVgTYG"
+1646154379542	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Sven Konermann\\AppData\\Local\\Temp\\rust_mozprofileqVgTYG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49697/devtools/browser/d9c00d1c-6b97-43c7-9e7f-b7c3dfade2c2
+1646154381377	Marionette	INFO	Listening on port 49702
+1646154381875	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1646154436468	Marionette	INFO	Stopped listening on port 49702
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1646154565458	geckodriver	INFO	Listening on 127.0.0.1:49775
+1646154568549	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--window-size=1200,800" "user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.2 Safari/605.1.15" "--remote-debugging-port" "49776" "-no-remote" "-profile" "C:\\Users\\SVENKO~1\\AppData\\Local\\Temp\\rust_mozprofilePoN02M"
+1646154568885	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Sven Konermann\\AppData\\Local\\Temp\\rust_mozprofilePoN02M\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49776/devtools/browser/7e4f9a32-c142-45ec-9b94-73ec2f7c91b1
+1646154570778	Marionette	INFO	Listening on port 49782
+1646154571193	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1646154753252	Marionette	INFO	Stopped listening on port 49782
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1646154757476	geckodriver	INFO	Listening on 127.0.0.1:49865
+1646154760535	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--window-size=1200,800" "user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" "--remote-debugging-port" "49866" "-no-remote" "-profile" "C:\\Users\\SVENKO~1\\AppData\\Local\\Temp\\rust_mozprofilertXWFg"
+1646154760848	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Sven Konermann\\AppData\\Local\\Temp\\rust_mozprofilertXWFg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49866/devtools/browser/57c60846-0420-4e80-8cb2-cc4dfb625866
+1646154763215	Marionette	INFO	Listening on port 49871
+1646154763694	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1646156176041	Marionette	INFO	Stopped listening on port 49871
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1647935806623	geckodriver	INFO	Listening on 127.0.0.1:50893
+1647935809674	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.5 Safari/605.1.15" "--remote-debugging-port" "50894" "-no-remote" "-profile" "C:\\Users\\SVENKO~1\\AppData\\Local\\Temp\\rust_mozprofilevlCM3d"
+*** You are running in headless mode.
+1647935810091	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Sven Konermann\\AppData\\Local\\Temp\\rust_mozprofilevlCM3d\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50894/devtools/browser/c8337e76-e9b9-4a24-94c3-df7273e33146
+1647935811599	Marionette	INFO	Listening on port 50899
+1647935811747	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1647935813259	Marionette	INFO	Stopped listening on port 50899
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1647935813927	geckodriver	INFO	Listening on 127.0.0.1:50960
+1647935816984	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--window-size=1200,800" "user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Safari/605.1.15" "--remote-debugging-port" "50961" "-no-remote" "-profile" "C:\\Users\\SVENKO~1\\AppData\\Local\\Temp\\rust_mozprofileH74stO"
+1647935817334	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Sven Konermann\\AppData\\Local\\Temp\\rust_mozprofileH74stO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50961/devtools/browser/80dc5d18-8b5d-46d9-a9c5-df540c2abf49
+1647935819501	Marionette	INFO	Listening on port 50966
+1647935819662	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1647935956436	Marionette	INFO	Stopped listening on port 50966
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+window-size=1200,800" "user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" "--remote-debugging-port" "51030" "-no-remote" "-profile" "C:\\Users\\SVENKO~1\\AppData\\Local\\Temp\\rust_mozprofileCsCFcq"
+1647935824420	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Sven Konermann\\AppData\\Local\\Temp\\rust_mozprofileCsCFcq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51030/devtools/browser/8c1bd43d-16e2-4681-8684-5185aa3b9281
+1647935826526	Marionette	INFO	Listening on port 51035
+1647935826760	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1647935828171	Marionette	INFO	Stopped listening on port 51035
+1647935830257	geckodriver	INFO	Listening on 127.0.0.1:51097
+1647935833344	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--window-size=1200,800" "user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko" "--remote-debugging-port" "51098" "-no-remote" "-profile" "C:\\Users\\SVENKO~1\\AppData\\Local\\Temp\\rust_mozprofilexnlMjD"
+1647935833695	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Sven Konermann\\AppData\\Local\\Temp\\rust_mozprofilexnlMjD\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51098/devtools/browser/a4f5df8f-aa71-4c04-b06d-805437483f5b
+1647935835636	Marionette	INFO	Listening on port 51103
+1647935836062	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1647935836967	Marionette	INFO	Stopped listening on port 51103
+1650960572488	geckodriver	INFO	Listening on 127.0.0.1:64460
+1650960575567	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "user-agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" "--remote-debugging-port" "64461" "-no-remote" "-profile" "C:\\Users\\SVENKO~1\\AppData\\Local\\Temp\\rust_mozprofilebAAffl"
+*** You are running in headless mode.
+1650960576118	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SVENKO~1\\AppData\\Local\\Temp\\rust_mozprofilebAAffl\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64461/devtools/browser/fabf2dc1-820d-426b-ac66-01e54076415b
+1650960578044	Marionette	INFO	Listening on port 64466
+1650960578298	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650960579823	Marionette	INFO	Stopped listening on port 64466
+1650960590445	geckodriver	INFO	Listening on 127.0.0.1:64526
+1650960593504	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--window-size=1200,800" "user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.4 Safari/605.1.15" "--remote-debugging-port" "64527" "-no-remote" "-profile" "C:\\Users\\SVENKO~1\\AppData\\Local\\Temp\\rust_mozprofile89Uefl"
+1650960594196	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SVENKO~1\\AppData\\Local\\Temp\\rust_mozprofile89Uefl\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64527/devtools/browser/55bbe0ac-71bf-443c-9b60-03db57ebcfee
+1650960597646	Marionette	INFO	Listening on port 64532
+1650960597744	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650960602645	Marionette	INFO	Stopped listening on port 64532
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+[Parent 20020, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1650961854738	geckodriver	INFO	Listening on 127.0.0.1:55082
+1650961857794	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" "--remote-debugging-port" "55083" "-no-remote" "-profile" "C:\\Users\\SVENKO~1\\AppData\\Local\\Temp\\rust_mozprofile0AnvoH"
+*** You are running in headless mode.
+1650961858609	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SVENKO~1\\AppData\\Local\\Temp\\rust_mozprofile0AnvoH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55083/devtools/browser/8fc37c18-c959-4bff-b8b8-30389790eeec
+1650961860552	Marionette	INFO	Listening on port 55089
+1650961860996	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650961862883	Marionette	INFO	Stopped listening on port 55089
+1650961864860	geckodriver	INFO	Listening on 127.0.0.1:55154
+1650961867961	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--window-size=1200,800" "user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" "--remote-debugging-port" "55155" "-no-remote" "-profile" "C:\\Users\\SVENKO~1\\AppData\\Local\\Temp\\rust_mozprofile98r0YY"
+1650961868511	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SVENKO~1\\AppData\\Local\\Temp\\rust_mozprofile98r0YY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55155/devtools/browser/76fa06a0-2e26-43ed-b5e5-3eca426d366a
+1650961871693	Marionette	INFO	Listening on port 55161
+1650961872165	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650961875992	Marionette	INFO	Stopped listening on port 55161
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+[Parent 29356, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1650961882983	geckodriver	INFO	Listening on 127.0.0.1:55231
+1650961886081	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--window-size=1200,800" "user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:73.0) Gecko/20100101 Firefox/73.0" "--remote-debugging-port" "55232" "-no-remote" "-profile" "C:\\Users\\SVENKO~1\\AppData\\Local\\Temp\\rust_mozprofileHcZ4wl"
+1650961886661	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SVENKO~1\\AppData\\Local\\Temp\\rust_mozprofileHcZ4wl\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55232/devtools/browser/9e67cd1f-054a-4164-ab1f-0cde59711578
+1650961890010	Marionette	INFO	Listening on port 55238
+1650961890313	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650961891854	Marionette	INFO	Stopped listening on port 55238
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+[Parent 36484, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 36484, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 36484, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1650961929978	geckodriver	INFO	Listening on 127.0.0.1:55318
+1650961933093	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--window-size=1200,800" "user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.4 Safari/605.1.15" "--remote-debugging-port" "55319" "-no-remote" "-profile" "C:\\Users\\SVENKO~1\\AppData\\Local\\Temp\\rust_mozprofileW5vEF0"
+1650961933690	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SVENKO~1\\AppData\\Local\\Temp\\rust_mozprofileW5vEF0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55319/devtools/browser/8cea4704-ec78-48e3-8e2f-a2a45f86e9a6
+1650961936868	Marionette	INFO	Listening on port 55324
+1650961937331	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650961941545	Marionette	INFO	Stopped listening on port 55324
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+[Parent 22244, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1650961963181	geckodriver	INFO	Listening on 127.0.0.1:55369
+1650961966306	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--window-size=1200,800" "user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.87 Safari/537.36" "--remote-debugging-port" "55370" "-no-remote" "-profile" "C:\\Users\\SVENKO~1\\AppData\\Local\\Temp\\rust_mozprofilecI1tSJ"
+1650961966874	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SVENKO~1\\AppData\\Local\\Temp\\rust_mozprofilecI1tSJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55370/devtools/browser/02b0c72a-926e-4d7c-869d-6b3a89ee4495
+1650961971795	Marionette	INFO	Listening on port 55375
+1650961972261	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650962015898	Marionette	INFO	Stopped listening on port 55375
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+[Parent 10772, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+r("Could not open the file at C:\\Users\\SVENKO~1\\AppData\\Local\\Temp\\rust_mozprofileLCUKte\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55435/devtools/browser/e2e1cfc7-8559-4075-8a84-9fad85ae2c88
+1650962017478	Marionette	INFO	Listening on port 55440
+1650962017674	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.ariva.de/werb/cdn_ariva_dt/live/iqadcontroller.js?v=b95a6ea5a738a99a331f8165b40c622a, line 7: unreachable code after return statement
+JavaScript warning: https://www.ariva.de/werb/cdn_ariva_dt/live/iqadcontroller.js?v=b95a6ea5a738a99a331f8165b40c622a, line 7: unreachable code after return statement
+1650962032443	Marionette	INFO	Stopped listening on port 55440
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+[Parent 28216, IPC I/O Parent] WARNING: file /builds/worker/1650962036885	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--window-size=1200,800" "user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36" "--remote-debugging-port" "55565" "-no-remote" "-profile" "C:\\Users\\SVENKO~1\\AppData\\Local\\Temp\\rust_mozprofileb0sSxC"
+1650962037474	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SVENKO~1\\AppData\\Local\\Temp\\rust_mozprofileb0sSxC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55565/devtools/browser/e8532909-4ae6-4678-8b31-9eeb57d2f0b8
+1650962041877	Marionette	INFO	Listening on port 55570
+1650962042284	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.ariva.de/werb/cdn_ariva_dt/live/iqadcontroller.js?v=b95a6ea5a738a99a331f8165b40c622a, line 7: unreachable code after return statement
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2320))
+JavaScript warning: https://www.ariva.de/werb/cdn_ariva_dt/live/iqadcontroller.js?v=b95a6ea5a738a99a331f8165b40c622a, line 7: unreachable code after return statement
+1650962312021	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'loading'.
+1650962313586	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'loading'.
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967369/domwalker23, type pick failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\npick@resource://devtools/client/fronts/walker.js:444:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\n#onInspectorFrontAvailable@resource://devtools/client/inspector/node-picker.js:71:18\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967369/layout25, type getGrids failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\ngetAllGrids@resource://devtools/client/fronts/layout.js:171:17\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\ngetGrids@resource://devtools/client/inspector/grids/grid-inspector.js:449:35\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967369/layout25, type getGrids failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\ngetAllGrids@resource://devtools/client/fronts/layout.js:171:17\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\ngetGrids@resource://devtools/client/inspector/grids/grid-inspector.js:449:35\n", "resource://devtools/shared/protocol/Front.js", 106))
+JavaScript error: , line 0: uncaught exception: 7
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LOnNfct_OK6AKwq7GByGz0_K8O7BrCXN6Fs6Py5gnPc.js line 1 > eval line 2194 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LOnNfct_OK6AKwq7GByGz0_K8O7BrCXN6Fs6Py5gnPc.js line 1 > eval line 586 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LOnNfct_OK6AKwq7GByGz0_K8O7BrCXN6Fs6Py5gnPc.js line 1 > eval line 7132 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LOnNfct_OK6AKwq7GByGz0_K8O7BrCXN6Fs6Py5gnPc.js line 1 > eval line 3414 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.ariva.de"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.ariva.de"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.ariva.de"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.ariva.de"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.ariva.de"
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.ariva.de"
+1650962775317	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LOnNfct_OK6AKwq7GByGz0_K8O7BrCXN6Fs6Py5gnPc.js line 1 > eval line 6302 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://s.onvista.de/static/libs-75539.js, line 1: Error: Mismatched anonymous define() module: function(){return l}
+http://requirejs.org/docs/errors.html#mismatch
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LOnNfct_OK6AKwq7GByGz0_K8O7BrCXN6Fs6Py5gnPc.js line 1 > eval line 1049 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LOnNfct_OK6AKwq7GByGz0_K8O7BrCXN6Fs6Py5gnPc.js line 1 > eval line 5832 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 7
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:312:10
+
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LOnNfct_OK6AKwq7GByGz0_K8O7BrCXN6Fs6Py5gnPc.js line 1 > eval line 3998 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://s.onvista.de/static/libs-75539.js, line 1: Error: Mismatched anonymous define() module: function(){return l}
+http://requirejs.org/docs/errors.html#mismatch
+JavaScript warning: https://z.moatads.com/ptarmiganmediadcm677757797954/moatad.js#moatClientLevel1=11346008&moatClientLevel2=27453031&moatClientLevel3=524226075&moatClientLevel4=169736584&moatClientSlicer1=1581809&moatClientSlicer2=331931068, line 243: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LOnNfct_OK6AKwq7GByGz0_K8O7BrCXN6Fs6Py5gnPc.js line 1 > eval line 7089 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LOnNfct_OK6AKwq7GByGz0_K8O7BrCXN6Fs6Py5gnPc.js line 1 > eval line 4533 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LOnNfct_OK6AKwq7GByGz0_K8O7BrCXN6Fs6Py5gnPc.js line 1 > eval line 864 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1650962840128	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LOnNfct_OK6AKwq7GByGz0_K8O7BrCXN6Fs6Py5gnPc.js line 1 > eval line 1918 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/ptarmiganmediadcm677757797954/moatad.js#moatClientLevel1=11346008&moatClientLevel2=27453031&moatClientLevel3=524226075&moatClientLevel4=169736584&moatClientSlicer1=1581809&moatClientSlicer2=331931068, line 243: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 7
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LOnNfct_OK6AKwq7GByGz0_K8O7BrCXN6Fs6Py5gnPc.js line 1 > eval line 5402 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LOnNfct_OK6AKwq7GByGz0_K8O7BrCXN6Fs6Py5gnPc.js line 1 > eval line 6264 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LOnNfct_OK6AKwq7GByGz0_K8O7BrCXN6Fs6Py5gnPc.js line 1 > eval line 345 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.onvista.de"
+JavaScript error: https://s.onvista.de/static/libs-75539.js, line 1: Error: Mismatched anonymous define() module: function(){return l}
+http://requirejs.org/docs/errors.html#mismatch
+JavaScript error: https://s.onvista.de/static/libs-75539.js, line 1: Error: Load timeout for modules: web/OnVista
+http://requirejs.org/docs/errors.html#timeout
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.onvista.de"
+JavaScript error: https://s.onvista.de/static/libs-75539.js, line 1: Error: Mismatched anonymous define() module: function(){return l}
+http://requirejs.org/docs/errors.html#mismatch
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://s.onvista.de/static/libs-75539.js, line 1: Error: Load timeout for modules: web/OnVista
+http://requirejs.org/docs/errors.html#timeout
+1650962885332	Marionette	INFO	Stopped listening on port 55570
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+[Parent 35440, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 35440, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1650962895374	geckodriver	INFO	Listening on 127.0.0.1:55543
+1650962898439	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--window-size=1200,800" "user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" "--remote-debugging-port" "55544" "-no-remote" "-profile" "C:\\Users\\SVENKO~1\\AppData\\Local\\Temp\\rust_mozprofiles5ZSIG"
+1650962899018	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SVENKO~1\\AppData\\Local\\Temp\\rust_mozprofiles5ZSIG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55544/devtools/browser/e36f8371-07ac-456a-ae32-fa900d694cb4
+1650962902463	Marionette	INFO	Listening on port 55550
+1650962902641	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.error: "Unable to find target with innerWindowId:2147483661"
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannelInternal.remoteAddress]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _onResponseHeader :: line 990"  data: no]
+Stack: _onResponseHeader@resource://devtools/server/actors/network-monitor/network-observer.js:990:5
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:563:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:672:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 990, column: 0
+console.error: ({})
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannelInternal.remoteAddress]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _onResponseHeader :: line 990"  data: no]
+Stack: _onResponseHeader@resource://devtools/server/actors/network-monitor/network-observer.js:990:5
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:563:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:672:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 990, column: 0
+console.error: ({})
+console.error: "Unable to find target with innerWindowId:2147483677"
+console.error: "Unable to find target with innerWindowId:2147483669"
+console.error: "Unable to find target with innerWindowId:2147483686"
+console.error: "Unable to find target with innerWindowId:2147483686"
+console.error: "Unable to find target with innerWindowId:2147483678"
+console.error: "Unable to find target with innerWindowId:2147483695"
+console.error: "Unable to find target with innerWindowId:2147483695"
+console.error: "Unable to find target with innerWindowId:2147483687"
+JavaScript error: https://s.onvista.de/static/libs-75539.js, line 1: Error: Mismatched anonymous define() module: function(){return l}
+http://requirejs.org/docs/errors.html#mismatch
+console.error: "Unable to find target with innerWindowId:2147483704"
+console.error: "Unable to find target with innerWindowId:2147483704"
+console.error: "Unable to find target with innerWindowId:2147483696"
+JavaScript error: https://s.onvista.de/static/libs-75539.js, line 1: Error: Mismatched anonymous define() module: function(){return l}
+http://requirejs.org/docs/errors.html#mismatch
+console.error: "Unable to find target with innerWindowId:2147483713"
+console.error: "Unable to find target with innerWindowId:2147483713"
+console.error: "Unable to find target with innerWindowId:2147483705"
+JavaScript error: https://s.onvista.de/static/libs-75539.js, line 1: Error: Mismatched anonymous define() module: function(){return l}
+http://requirejs.org/docs/errors.html#mismatch
+JavaScript warning: https://s.onvista.de/static/libs-75539.js, line 1: Script terminated by timeout at:
+newContext/d/O<@https://s.onvista.de/static/libs-75539.js:1:4351
+setTimeout handler*d@https://s.onvista.de/static/libs-75539.js:1:4329
+newContext/d/O<@https://s.onvista.de/static/libs-75539.js:1:4355
+setTimeout handler*d@https://s.onvista.de/static/libs-75539.js:1:4329
+newContext/d/O<@https://s.onvista.de/static/libs-75539.js:1:4355
+setTimeout handler*d@https://s.onvista.de/static/libs-75539.js:1:4329
+newContext/d/O<@https://s.onvista.de/static/libs-75539.js:1:4355
+setTimeout handler*d@https://s.onvista.de/static/libs-75539.js:1:4329
+newContext/d/O<@https://s.onvista.de/static/libs-75539.js:1:4355
+setTimeout handler*d@https://s.onvista.de/static/libs-75539.js:1:4329
+newContext/d/O<@https://s.onvista.de/static/libs-75539.js:1:4355
+setTimeout handler*d@https://s.onvista.de/static/libs-75539.js:1:4329
+newContext/d/O<@https://s.onvista.de/static/libs-75539.js:1:4355
+setTimeout handler*d@https://s.onvista.de/static/libs-75539.js:1:4329
+newContext/d/O<@https://s.onvista.de/static/libs-75539.js:1:4355
+setTimeout handler*d@https://s.onvista.de/static/libs-75539.js:1:4329
+newContext/d/O<@https://s.onvista.de/static/libs-75539.js:1:4355
+setTimeout handler*d@https://s.onvista.de/static/libs-75539.js:1:4329
+newContext/d/O<@https://s.onvista.de/static/libs-75539.js:1:4355
+setTimeout handler*d@https://s.onvista.de/static/libs-75539.js:1:4329
+newContext/d/O<@https://s.onvista.de/static/libs-75539.js:1:4355
+setTimeout handler*d@https://s.onvista.de/static/libs-75539.js:1:4329
+newContext/d/O<@https://s.onvista.de/static/libs-75539.js:1:4355
+setTimeout handler*d@https://s.onvista.de/static/libs-75539.js:1:4329
+newContext/d/O<@https://s.onvista.de/static/libs-75539.js:1:4355
+setTimeout handler*d@https://s.onvista.de/static/libs-75539.js:1:4329
+newContext/d/O<@https://s.onvista.de/static/libs-75539.js:1:4355
+setTimeout handler*d@https://s.onvista.de/static/libs-75539.js:1:4329
+newContext/d/O<@https://s.onvista.de/static/libs-75539.js:1:4355
+setTimeout handler*d@https://s.onvista.de/static/libs-75539.js:1:4329
+newContext/d/O<@https://s.onvista.de/static/libs-75539.js:1:4355
+setTimeout handler*d@https://s.onvista.de/static/libs-75539.js:1:4329
+newContext/d/O<@https://s.onvista.de/static/libs-75539.js:1:4355
+setTimeout handler*d@https://s.onvista.de/static/libs-75539.js:1:4329
+newContext/d/O<@https://s.onvista.de/static/libs-75539.js:1:4355
+setTimeout handler*d@https://s.onvista.de/static/libs-75539.js:1:4329
+newContext/d/O<@https://s.onvista.de/static/libs-75539.js:1:4355
+setTimeout handler*d@https://s.onvista.de/static/libs-75539.js:1:4329
+newContext/d/O<@https://s.onvista.de/static/libs-75539.js:1:4355
+setTimeout handler*d@https://s.onvista.de/static/libs-75539.js:1:4329
+newContext/d/O<@https://s.onvista.de/static/libs-75539.js:1:4355
+setTimeout handler*d@https://s.onvista.de/static/libs-75539.js:1:4329
+newContext/d/O<@https://s.onvista.de/static/libs-75539.js:1:4355
+setTimeout handler*d@https://s.onvista.de/static/libs-75539.js:1:4329
+newContext/d/O<@https://s.onvista.de/static/libs-75539.js:1:4355
+setTimeout handler*d@https://s.onvista.de/static/libs-75539.js:1:4329
+newContext/d/O<@https://s.onvista.de/static/libs-75539.js:1:4355
+setTimeout handler*d@https://s.onvista.de/static/libs-75539.js:1:4329
+newContext/d/O<@https://s.onvista.de/static/libs-75539.js:1:4355
+
+console.error: "Unable to find target with innerWindowId:2147483722"
+console.error: "Unable to find target with innerWindowId:2147483722"
+console.error: "Unable to find target with innerWindowId:2147483714"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1650968154886	Marionette	INFO	Stopped listening on port 55550
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+for this session
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1650968154256	Marionette	INFO	Stopped listening on port 58646
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+ resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: https://eus.rubiconproject.com/usync.js, line 4: SecurityError: The operation is insecure.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LOnNfct_OK6AKwq7GByGz0_K8O7BrCXN6Fs6Py5gnPc.js line 1 > eval line 1091 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+SourceActor threw an exception: [Exception... "Failed to open input source 'javascript:'';'"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 670"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:670:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2118:35
+addAllSources@resource://devtools/server/actors/thread.js:1479:14
+watch@resource://devtools/server/actors/resources/sources.js:62:17
+watchResources@resource://devtools/server/actors/resources/index.js:242:19
+_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:161:24
+addSessionDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:53:20
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:556:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:465:21
+Line: 670, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 670: NS_ERROR_NOT_AVAILABLE: Failed to open input source 'javascript:'';'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1650968163775	Marionette	INFO	Stopped listening on port 56474
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1650970143000	geckodriver	INFO	Listening on 127.0.0.1:53101
+1650970146075	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.4 Safari/605.1.15" "--remote-debugging-port" "53102" "-no-remote" "-profile" "C:\\Users\\SVENKO~1\\AppData\\Local\\Temp\\rust_mozprofilepV7t1f"
+*** You are running in headless mode.
+1650970146665	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SVENKO~1\\AppData\\Local\\Temp\\rust_mozprofilepV7t1f\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53102/devtools/browser/17775aec-930f-4875-bffa-f6fccae1bdec
+1650970148660	Marionette	INFO	Listening on port 53107
+1650970148788	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650970150468	Marionette	INFO	Stopped listening on port 53107
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1650976496938	geckodriver	INFO	Listening on 127.0.0.1:51490
+1650976500015	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--window-size=1200,800" "user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.87 Safari/537.36" "--remote-debugging-port" "51491" "-no-remote" "-profile" "C:\\Users\\SVENKO~1\\AppData\\Local\\Temp\\rust_mozprofilewe5NoU"
+1650976500434	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SVENKO~1\\AppData\\Local\\Temp\\rust_mozprofilewe5NoU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51491/devtools/browser/e3735f74-79ef-46ac-8823-399075bfcc50
+1650976503613	Marionette	INFO	Listening on port 51497
+1650976503780	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650998226302	Marionette	INFO	Stopped listening on port 51497
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1651435912976	geckodriver	INFO	Listening on 127.0.0.1:60089
+1651435916085	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--window-size=1200,800" "user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:69.0) Gecko/20100101 Firefox/69.0" "--remote-debugging-port" "60090" "-no-remote" "-profile" "C:\\Users\\SVENKO~1\\AppData\\Local\\Temp\\rust_mozprofile7TG8c3"
+1651435916458	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SVENKO~1\\AppData\\Local\\Temp\\rust_mozprofile7TG8c3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60090/devtools/browser/0692677b-2b75-4a58-88e8-464432a7afd1
+1651435918585	Marionette	INFO	Listening on port 60102
+1651435918780	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://s.onvista.de/static/libs-75539.js, line 1: Error: Script error for "realpush", needed by: base/OnVista/Realpush/AuthAdapter
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://s.onvista.de/static/libs-75539.js, line 1: Error: Script error for "realpush", needed by: base/OnVista/Realpush/AuthAdapter
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://s.onvista.de/static/libs-75539.js, line 1: Error: Script error for "web/OnVista"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://s.onvista.de/static/libs-75539.js, line 1: Error: Script error for "realpush", needed by: base/OnVista/Realpush/AuthAdapter
+http://requirejs.org/docs/errors.html#scripterror
+1651435999836	Marionette	INFO	Stopped listening on port 60102
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1651438355883	geckodriver	INFO	Listening on 127.0.0.1:61763
+1651438358953	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--window-size=1200,800" "user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 YaBrowser/19.12.4.25 Yowser/2.5 Safari/537.36" "--remote-debugging-port" "61764" "-no-remote" "-profile" "C:\\Users\\SVENKO~1\\AppData\\Local\\Temp\\rust_mozprofilejjRGZg"
+1651438359270	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SVENKO~1\\AppData\\Local\\Temp\\rust_mozprofilejjRGZg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61764/devtools/browser/b4b55c65-4ad8-45e3-a227-d7c987e0b79d
+1651438361275	Marionette	INFO	Listening on port 61769
+1651438361638	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://s.onvista.de/static/libs-75539.js, line 1: Error: Script error for "base/OnVista"
+http://requirejs.org/docs/errors.html#scripterror
+1651438455973	Marionette	INFO	Stopped listening on port 61769
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+mp\\rust_mozprofile5dnEeW"
+1651438450349	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SVENKO~1\\AppData\\Local\\Temp\\rust_mozprofile5dnEeW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61925/devtools/browser/b866915f-525e-4041-a2cf-5da67299c494
+1651438452205	Marionette	INFO	Listening on port 61930
+1651438452641	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://s.onvista.de/static/libs-75539.js, line 1: Error: Load timeout for modules: base/OnVista,web/Legacy
+http://requirejs.org/docs/errors.html#timeout
+JavaScript error: https://s.onvista.de/static/libs-75539.js, line 1: Error: Script error for "base/OnVista"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://s.onvista.de/static/libs-75539.js, line 1: Error: Script error for "realpush", needed by: base/OnVista/Realpush/AuthAdapter
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://s.onvista.de/static/libs-75539.js, line 1: Error: Load timeout for modules: base/OnVista,web/Legacy
+http://requirejs.org/docs/errors.html#timeout
+JavaScript error: https://s.onvista.de/static/libs-75539.js, line 1: Error: Script error for "base/OnVista"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://s.onvista.de/static/libs-75539.js, line 1: Error: Script error for "base/OnVista"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://s.onvista.de/static/libs-75539.js, line 1: Error: Load timeout for modules: base/OnVista
+http://requirejs.org/docs/errors.html#timeout
+JavaScript error: https://s.onvista.de/static/libs-75539.js, line 1: Error: Script error for "base/OnVista"
+http://requirejs.org/docs/errors.html#scripterror
+1651442241503	Marionette	INFO	Stopped listening on port 61930
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+remote" "-profile" "C:\\Users\\SVENKO~1\\AppData\\Local\\Temp\\rust_mozprofileKv6GBK"
+1651439363288	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SVENKO~1\\AppData\\Local\\Temp\\rust_mozprofileKv6GBK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62607/devtools/browser/78c8d77e-78b6-4391-8c86-360eeb4310d2
+1651439365365	Marionette	INFO	Listening on port 62613
+1651439365654	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://s.onvista.de/static/libs-75539.js, line 1: Error: Script error for "realpush", needed by: base/OnVista/Realpush/AuthAdapter
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://s.onvista.de/static/libs-75539.js, line 1: Error: Script error for "realpush", needed by: base/OnVista/Realpush/AuthAdapter
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://s.onvista.de/static/libs-75539.js, line 1: Error: Load timeout for modules: base/OnVista,web/Legacy
+http://requirejs.org/docs/errors.html#timeout
+JavaScript error: https://s.onvista.de/static/libs-75539.js, line 1: Error: Script error for "base/OnVista"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://s.onvista.de/static/libs-75539.js, line 1: Error: Load timeout for modules: base/OnVista,web/Legacy
+http://requirejs.org/docs/errors.html#timeout
+JavaScript error: https://s.onvista.de/static/libs-75539.js, line 1: Error: Script error for "base/OnVista"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://s.onvista.de/static/libs-75539.js, line 1: Error: Load timeout for modules: base/OnVista
+http://requirejs.org/docs/errors.html#timeout
+JavaScript error: https://s.onvista.de/static/libs-75539.js, line 1: Error: Script error for "base/OnVista"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://s.onvista.de/static/libs-75539.js, line 1: Error: Load timeout for modules: base/OnVista
+http://requirejs.org/docs/errors.html#timeout
+JavaScript error: https://s.onvista.de/static/libs-75539.js, line 1: Error: Script error for "base/OnVista"
+http://requirejs.org/docs/errors.html#scripterror
+1651442240576	Marionette	INFO	Stopped listening on port 62613
+1441349213	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--window-size=1200,800" "user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" "--remote-debugging-port" "63944" "-no-remote" "-profile" "C:\\Users\\SVENKO~1\\AppData\\Local\\Temp\\rust_mozprofileFiFHDw"
+1651441349523	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SVENKO~1\\AppData\\Local\\Temp\\rust_mozprofileFiFHDw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63944/devtools/browser/39b58258-8dd6-45a2-be9c-e108ddff011f
+1651441351621	Marionette	INFO	Listening on port 63949
+1651441351928	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://s.onvista.de/static/libs-75539.js, line 1: Error: Script error for "realpush", needed by: base/OnVista/Realpush/AuthAdapter
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://s.onvista.de/static/libs-75539.js, line 1: Error: Load timeout for modules: base/OnVista
+http://requirejs.org/docs/errors.html#timeout
+JavaScript error: https://s.onvista.de/static/libs-75539.js, line 1: Error: Script error for "base/OnVista"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://s.onvista.de/static/libs-75539.js, line 1: Error: Script error for "web/OnVista"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://s.onvista.de/static/libs-75539.js, line 1: Error: Script error for "realpush", needed by: base/OnVista/Realpush/AuthAdapter
+http://requirejs.org/docs/errors.html#scripterror
+1651442238229	Marionette	INFO	Stopped listening on port 63949
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+window-size=1200,800" "user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" "--remote-debugging-port" "64054" "-no-remote" "-profile" "C:\\Users\\SVENKO~1\\AppData\\Local\\Temp\\rust_mozprofilekcTh0O"
+1651441402728	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SVENKO~1\\AppData\\Local\\Temp\\rust_mozprofilekcTh0O\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64054/devtools/browser/27c981d6-3a31-44dc-a569-b9c54928119f
+1651441404605	Marionette	INFO	Listening on port 64059
+1651441405072	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://s.onvista.de/static/libs-75539.js, line 1: Error: Script error for "web/Legacy"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://s.onvista.de/static/libs-75539.js, line 1: Error: Script error for "base/OnVista"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://s.onvista.de/static/libs-75539.js, line 1: Error: Script error for "realpush", needed by: base/OnVista/Realpush/AuthAdapter
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://s.onvista.de/static/libs-75539.js, line 1: Error: Load timeout for modules: base/OnVista,web/Legacy
+http://requirejs.org/docs/errors.html#timeout
+1651442230735	Marionette	INFO	Stopped listening on port 64059
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+window-size=1200,800" "user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:72.0) Gecko/20100101 Firefox/72.0" "--remote-debugging-port" "64170" "-no-remote" "-profile" "C:\\Users\\SVENKO~1\\AppData\\Local\\Temp\\rust_mozprofileBfYEVM"
+1651441458818	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SVENKO~1\\AppData\\Local\\Temp\\rust_mozprofileBfYEVM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64170/devtools/browser/95736b38-fdbf-4eb1-ad4e-e16541080efc
+1651441460700	Marionette	INFO	Listening on port 64176
+1651441461086	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://s.onvista.de/static/libs-75539.js, line 1: Error: Script error for "realpush", needed by: base/OnVista/Realpush/AuthAdapter
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://s.onvista.de/static/libs-75539.js, line 1: Error: Script error for "realpush", needed by: base/OnVista/Realpush/AuthAdapter
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://s.onvista.de/static/libs-75539.js, line 1: Error: Script error for "realpush", needed by: base/OnVista/Realpush/AuthAdapter
+http://requirejs.org/docs/errors.html#scripterror
+1651442227002	Marionette	INFO	Stopped listening on port 64176
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+window-size=1200,800" "user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.87 Safari/537.36" "--remote-debugging-port" "64266" "-no-remote" "-profile" "C:\\Users\\SVENKO~1\\AppData\\Local\\Temp\\rust_mozprofilepf4Uh6"
+1651441504549	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SVENKO~1\\AppData\\Local\\Temp\\rust_mozprofilepf4Uh6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64266/devtools/browser/e9cb4d57-f53e-4183-80ba-42b5521c4142
+1651441506453	Marionette	INFO	Listening on port 64271
+1651441506876	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://s.onvista.de/static/libs-75539.js, line 1: Error: Script error for "realpush", needed by: base/OnVista/Realpush/AuthAdapter
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://s.onvista.de/static/libs-75539.js, line 1: Error: Script error for "web/OnVista"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://s.onvista.de/static/libs-75539.js, line 1: Error: Script error for "realpush", needed by: base/OnVista/Realpush/AuthAdapter
+http://requirejs.org/docs/errors.html#scripterror
+1651442228462	Marionette	INFO	Stopped listening on port 64271
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+window-size=1200,800" "user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" "--remote-debugging-port" "64366" "-no-remote" "-profile" "C:\\Users\\SVENKO~1\\AppData\\Local\\Temp\\rust_mozprofileik8rtN"
+1651441548340	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SVENKO~1\\AppData\\Local\\Temp\\rust_mozprofileik8rtN\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64366/devtools/browser/9be88392-44aa-47f4-bbd9-86cd04267c0c
+1651441550269	Marionette	INFO	Listening on port 64371
+1651441550671	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://s.onvista.de/static/libs-75539.js, line 1: Error: Script error for "base/OnVista"
+http://requirejs.org/docs/errors.html#scripterror
+1651442229868	Marionette	INFO	Stopped listening on port 64371
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+window-size=1200,800" "user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" "--remote-debugging-port" "64463" "-no-remote" "-profile" "C:\\Users\\SVENKO~1\\AppData\\Local\\Temp\\rust_mozprofilevA7sE0"
+1651441597444	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SVENKO~1\\AppData\\Local\\Temp\\rust_mozprofilevA7sE0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64463/devtools/browser/030f7b8c-9cda-44de-b062-58ca2d137d4d
+1651441599432	Marionette	INFO	Listening on port 64475
+1651441599798	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://s.onvista.de/static/libs-75539.js, line 1: Error: Script error for "realpush", needed by: base/OnVista/Realpush/AuthAdapter
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://s.onvista.de/static/libs-75539.js, line 1: Error: Script error for "realpush", needed by: base/OnVista/Realpush/AuthAdapter
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://s.onvista.de/static/libs-75539.js, line 1: Error: Script error for "web/OnVista"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://s.onvista.de/static/libs-75539.js, line 1: Error: Script error for "realpush", needed by: base/OnVista/Realpush/AuthAdapter
+http://requirejs.org/docs/errors.html#scripterror
+1651442231969	Marionette	INFO	Stopped listening on port 64475
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+window-size=1200,800" "user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:72.0) Gecko/20100101 Firefox/72.0" "--remote-debugging-port" "64562" "-no-remote" "-profile" "C:\\Users\\SVENKO~1\\AppData\\Local\\Temp\\rust_mozprofileYuTVvW"
+1651441650302	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SVENKO~1\\AppData\\Local\\Temp\\rust_mozprofileYuTVvW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64562/devtools/browser/6f5786dd-0c2b-479f-b037-45d9c76f81af
+1651441652452	Marionette	INFO	Listening on port 64567
+1651441652611	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://s.onvista.de/static/libs-75539.js, line 1: Error: Script error for "web/OnVista"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://s.onvista.de/static/libs-75539.js, line 1: Error: Script error for "base/OnVista"
+http://requirejs.org/docs/errors.html#scripterror
+1651442233179	Marionette	INFO	Stopped listening on port 64567
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 96800, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+8 Safari/537.36" "--remote-debugging-port" "64648" "-no-remote" "-profile" "C:\\Users\\SVENKO~1\\AppData\\Local\\Temp\\rust_mozprofile8zvAj9"
+1651441682898	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SVENKO~1\\AppData\\Local\\Temp\\rust_mozprofile8zvAj9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64648/devtools/browser/2a45fdce-4626-4200-84cd-70488867ef7a
+1651441684978	Marionette	INFO	Listening on port 64661
+1651441685198	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://s.onvista.de/static/libs-75539.js, line 1: Error: Script error for "base/OnVista"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://s.onvista.de/static/libs-75539.js, line 1: Error: Script error for "web/Legacy"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools/client/jsonview/Sniffer.jsm, line 56: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+JavaScript error: https://s.onvista.de/static/libs-75539.js, line 1: Error: Script error for "base/OnVista"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://s.onvista.de/static/libs-75539.js, line 1: Error: Script error for "base/OnVista"
+http://requirejs.org/docs/errors.html#scripterror
+1651442234277	Marionette	INFO	Stopped listening on port 64661
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+window-size=1200,800" "user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.87 Safari/537.36" "--remote-debugging-port" "64799" "-no-remote" "-profile" "C:\\Users\\SVENKO~1\\AppData\\Local\\Temp\\rust_mozprofilefsZ15F"
+1651441792575	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SVENKO~1\\AppData\\Local\\Temp\\rust_mozprofilefsZ15F\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64799/devtools/browser/4a6f2be7-eea3-4994-b0a7-a10c8cef063e
+1651441794776	Marionette	INFO	Listening on port 64804
+1651441794855	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://s.onvista.de/static/libs-75539.js, line 1: Error: Load timeout for modules: web/OnVista
+http://requirejs.org/docs/errors.html#timeout
+JavaScript error: https://s.onvista.de/static/libs-75539.js, line 1: Error: Script error for "web/OnVista"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://s.onvista.de/static/libs-75539.js, line 1: Error: Script error for "realpush", needed by: base/OnVista/Realpush/AuthAdapter
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://s.onvista.de/static/libs-75539.js, line 1: Error: Script error for "realpush", needed by: base/OnVista/Realpush/AuthAdapter
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://s.onvista.de/static/libs-75539.js, line 1: Error: Load timeout for modules: base/OnVista,web/Legacy
+http://requirejs.org/docs/errors.html#timeout
+JavaScript error: https://s.onvista.de/static/libs-75539.js, line 1: Error: Script error for "base/OnVista"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://s.onvista.de/static/libs-75539.js, line 1: Error: Load timeout for modules: base/OnVista,web/Legacy
+http://requirejs.org/docs/errors.html#timeout
+JavaScript error: https://s.onvista.de/static/libs-75539.js, line 1: Error: Script error for "base/OnVista"
+http://requirejs.org/docs/errors.html#scripterror
+1651442235308	Marionette	INFO	Stopped listening on port 64804
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+i/605.1.15" "--remote-debugging-port" "64908" "-no-remote" "-profile" "C:\\Users\\SVENKO~1\\AppData\\Local\\Temp\\rust_mozprofileqWVYvG"
+1651441848119	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SVENKO~1\\AppData\\Local\\Temp\\rust_mozprofileqWVYvG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64908/devtools/browser/5d816db4-b3f8-4667-b9bc-f8709c0e3ade
+1651441850657	Marionette	INFO	Listening on port 64916
+1651441850956	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://s.onvista.de/static/libs-75539.js, line 1: Error: Load timeout for modules: base/OnVista,web/Legacy
+http://requirejs.org/docs/errors.html#timeout
+JavaScript error: https://s.onvista.de/static/libs-75539.js, line 1: Error: Script error for "realpush", needed by: base/OnVista/Realpush/AuthAdapter
+http://requirejs.org/docs/errors.html#scripterror
+1651442236357	Marionette	INFO	Stopped listening on port 64916
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+window-size=1200,800" "user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" "--remote-debugging-port" "65059" "-no-remote" "-profile" "C:\\Users\\SVENKO~1\\AppData\\Local\\Temp\\rust_mozprofileMvww3U"
+1651441907506	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SVENKO~1\\AppData\\Local\\Temp\\rust_mozprofileMvww3U\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65059/devtools/browser/3f2c4b57-de6f-4c46-9218-86e1bb3dc9d4
+1651441910715	Marionette	INFO	Listening on port 65064
+1651441910826	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://s.onvista.de/static/libs-75539.js, line 1: Error: Script error for "realpush", needed by: base/OnVista/Realpush/AuthAdapter
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://s.onvista.de/static/libs-75539.js, line 1: Error: Script error for "realpush", needed by: base/OnVista/Realpush/AuthAdapter
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://s.onvista.de/static/libs-75539.js, line 1: Error: Script error for "base/OnVista"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://s.onvista.de/static/libs-75539.js, line 1: Error: Load timeout for modules: base/OnVista
+http://requirejs.org/docs/errors.html#timeout
+1651442237024	Marionette	INFO	Stopped listening on port 65064
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+window-size=1200,800" "user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/18.17763" "--remote-debugging-port" "65182" "-no-remote" "-profile" "C:\\Users\\SVENKO~1\\AppData\\Local\\Temp\\rust_mozprofilerxEXAr"
+1651441962664	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SVENKO~1\\AppData\\Local\\Temp\\rust_mozprofilerxEXAr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65182/devtools/browser/88fb08c0-45e6-4cdc-a4c0-404f3c7059ae
+1651441964832	Marionette	INFO	Listening on port 65187
+1651441964982	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://s.onvista.de/static/libs-75539.js, line 1: Error: Script error for "realpush", needed by: base/OnVista/Realpush/AuthAdapter
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://s.onvista.de/static/libs-75539.js, line 1: Error: Script error for "realpush", needed by: base/OnVista/Realpush/AuthAdapter
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://s.onvista.de/static/libs-75539.js, line 1: Error: Script error for "realpush", needed by: base/OnVista/Realpush/AuthAdapter
+http://requirejs.org/docs/errors.html#scripterror
+1651442223270	Marionette	INFO	Stopped listening on port 65187
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+7" "-no-remote" "-profile" "C:\\Users\\SVENKO~1\\AppData\\Local\\Temp\\rust_mozprofileHbRdzs"
+1651441998352	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SVENKO~1\\AppData\\Local\\Temp\\rust_mozprofileHbRdzs\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65287/devtools/browser/0f443430-c023-437f-ab70-7e917bf83b9f
+1651442001363	Marionette	INFO	Listening on port 65299
+1651442001709	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://s.onvista.de/static/libs-75539.js, line 1: Error: Script error for "realpush", needed by: base/OnVista/Realpush/AuthAdapter
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://s.onvista.de/static/libs-75539.js, line 1: Error: Script error for "realpush", needed by: base/OnVista/Realpush/AuthAdapter
+http://requirejs.org/docs/errors.html#scripterror
+1651442222539	Marionette	INFO	Stopped listening on port 65299
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+window-size=1200,800" "user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.5 Safari/605.1.15" "--remote-debugging-port" "65409" "-no-remote" "-profile" "C:\\Users\\SVENKO~1\\AppData\\Local\\Temp\\rust_mozprofileEezJLC"
+1651442047004	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SVENKO~1\\AppData\\Local\\Temp\\rust_mozprofileEezJLC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65409/devtools/browser/57030794-26af-40c1-ac7b-636184f05c5e
+1651442050278	Marionette	INFO	Listening on port 65414
+1651442050336	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://s.onvista.de/static/libs-75539.js, line 1: Error: Load timeout for modules: web/OnVista
+http://requirejs.org/docs/errors.html#timeout
+JavaScript error: https://s.onvista.de/static/libs-75539.js, line 1: Error: Script error for "realpush", needed by: base/OnVista/Realpush/AuthAdapter
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://s.onvista.de/static/libs-75539.js, line 1: Error: Script error for "web/OnVista"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://s.onvista.de/static/libs-75539.js, line 1: Error: Script error for "realpush", needed by: base/OnVista/Realpush/AuthAdapter
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://s.onvista.de/static/libs-75539.js, line 1: Error: Load timeout for modules: base/OnVista,web/Legacy
+http://requirejs.org/docs/errors.html#timeout
+1651442221580	Marionette	INFO	Stopped listening on port 65414
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
