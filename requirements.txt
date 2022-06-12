@@ -2,6 +2,13 @@ pandas~=1.4.2
 numpy~=1.22.4
 matplotlib~=3.5.2
 seaborn~=0.11.2
-sklearn~=0.0
 scikit-learn~=1.1.1
 joblib~=1.1.0
+yfinance~=0.1.70
+sklearn~=0.0
+selenium~=4.2.0
+plotly~=5.8.0
+cryptowatch-sdk
+ipython~=8.4.0
+cryptowatch~=0.0.11
+keras~=2.9.0
